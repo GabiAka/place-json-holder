@@ -1,4 +1,6 @@
-bizfly_data: {
-    "name" : "Huy",
-    "age" : 20
+{
+  "bizfly_data": {
+    "name": "Huy",
+    "age": 20
+  }
 }
